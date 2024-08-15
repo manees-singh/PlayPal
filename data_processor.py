@@ -2,7 +2,6 @@
 """
 Created on Sat Apr 15 16:13:49 2023
 
-@author: Ansuman Sharma
 """
 
 import spotipy

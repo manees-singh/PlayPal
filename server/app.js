@@ -8,6 +8,7 @@ const config = require('./config');
 
 const authRoutes = require('./routes/auth');
 
+// making express as an object.
 const app = express();
 
 //Middleware

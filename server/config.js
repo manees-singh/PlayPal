@@ -1,5 +1,6 @@
 require('dotenv').config();
 
+//required exports
 module.exports={
   spoftifyClientId: process.env.SPOTIFY_CLIENT_ID,
   spotifyClientSecret: process.env.SPOTIFY_CLIENT_SECRET,
